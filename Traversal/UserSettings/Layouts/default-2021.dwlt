@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 492}
   m_MaxSize: {x: 18097, y: 14042}
   vertical: 0
-  controlID: 94
+  controlID: 26
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 95
+  controlID: 27
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 96
+  controlID: 28
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,14 +325,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\smoof\Traversal
+  m_LastProjectPath: C:\Users\smoof\OneDrive\Documents\dgd3\Traversal
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 185a0000
-    m_LastClickedID: 23064
-    m_ExpandedIDs: 00000000185a000000ca9a3bffffff7f
+    m_SelectedIDs: 405f0000
+    m_LastClickedID: 24384
+    m_ExpandedIDs: 00000000405f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000185a0000
+    m_ExpandedIDs: 00000000405f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -488,25 +488,25 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 38fbffff
+      m_SelectedIDs: a8ebffff
+      m_LastClickedID: -5208
+      m_ExpandedIDs: e4b0ffff0cbcffff80e3ffff38fbffff965b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Area
+        m_OriginalName: Area
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -5208
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 11}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.2797976, y: -2.0457315, z: 0.04494826}
+    m_Target: {x: 51.134407, y: -62.342716, z: 52.200817}
     speed: 2
-    m_Value: {x: -2.2797976, y: -2.0457315, z: 0.04494826}
+    m_Value: {x: 51.134407, y: -62.342716, z: 52.200817}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -788,20 +788,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.019188847, y: -0.96581787, z: 0.24744686, w: -0.07489812}
+    m_Target: {x: -0.37716755, y: -0.33338362, z: 0.14769514, w: -0.851421}
     speed: 2
-    m_Value: {x: 0.019188846, y: 0.9658178, z: -0.24744685, w: 0.07489811}
+    m_Value: {x: -0.37736386, y: -0.33208427, z: 0.14711954, w: -0.8518641}
   m_Size:
-    m_Target: 10
+    m_Target: 55.49335
     speed: 2
-    m_Value: 10
+    m_Value: 58.10822
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 0.9805109
+    m_SpeedNormalized: 0.49000046
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
